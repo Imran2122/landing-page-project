@@ -1,3 +1,9 @@
+NovaWeb Landing Page
+
+A modern, responsive landing page built with HTML, Tailwind CSS, DaisyUI, and JavaScript.
+
+🚀 Live Demo:https://landing-page-project-993cd8.netlify.app/
+
 🛠️ Technologies Used
 HTML5
 Tailwind CSS
